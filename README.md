@@ -1,2 +1,3 @@
 # streaming-notes
-how to not fuck up streaming on twitch or mixer or wherever
+
+Notes, links, and what not to set up an effective livestream to one of the myriad sites out there.
