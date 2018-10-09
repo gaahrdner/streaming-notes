@@ -38,3 +38,4 @@ First get your mic sound right.
 ## Channel Analysis Tools
 
 * [R1CH's Twitch Analyzer](https://r-1.ch/analyzer/) - enter a Twitch handle and get an analysis on a streamer's bitrate, FPS, that sort of thing.
+* [sullygnome](https://sullygnome.com/) - detailed Twitch statistics and analysis
