@@ -11,7 +11,6 @@ This is absolutely the most important thing to get right.
 Microphones and audio devices to purchase, as well as details on how to set up your recording environment.
 
 * [salt_stringer's audio hardware buying guide](https://docs.google.com/document/d/14HRU4hziD1cl9bwKICPB4KkcvxyH2PIAgYA4QDyiprI) - some audio engineer's recommendations
-
 * [How to acoustically treat your room](https://ehomerecordingstudio.com/acoustic-treatment-101/)
 * [More performant DIY sound absorption panels made from towels](https://www.youtube.com/watch?v=pABvTWSxOes&)
 
